@@ -7,6 +7,10 @@ Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast reposi
 
 > Figma: https://www.figma.com/design/MNHko1t97eiB2cF928fcFi/Lunar-Harvest---NASA-SPACE-APP-CHALLENGES?node-id=518-14&t=o3OpSXjgTW9cGKgT-1
 
+> 30 Second Video: https://youtu.be/ME21UOTVfFQ
+
+> 240 Second Video: https://youtu.be/7vTnB-89WsU
+
 ## About the Challenge
 > Challenge: https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/leveraging-earth-observation-data-for-informed-agricultural-decision-making/
 
