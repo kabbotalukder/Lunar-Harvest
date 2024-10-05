@@ -1,4 +1,4 @@
-<p align = "center"><img width="50%" src="https://nsac.basis.org.bd/uploads/images/logo.png"></p>
+<p align = "center"><img width="50%" src="https://assets.spaceappschallenge.org/media/images/Space_Apps_Default_Logo_-_2-Col.width-440.jpegquality-60.png"><img width="50%" src="https://nsac.basis.org.bd/uploads/images/logo.png"></p>
 
 ## About the App
 Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast repository of Earth observation data, our app leverages advanced machine-learning algorithms to analyze historical rainfall patterns, weather trends, and regional characteristics. With our app, we help farmers predict upcoming floods, and droughts, monitor soil moisture, track pre-harvest and active farming phases, and notify farmers about water usage.
