@@ -1,0 +1,1108 @@
+{
+    "rainfallData": [
+        {
+            "date": "2024-10-04",
+            "predicted_rainfall": 327.35
+        },
+        {
+            "date": "2024-10-05",
+            "predicted_rainfall": 318.86
+        },
+        {
+            "date": "2024-10-06",
+            "predicted_rainfall": 312.56
+        },
+        {
+            "date": "2024-10-07",
+            "predicted_rainfall": 264.69
+        },
+        {
+            "date": "2024-10-08",
+            "predicted_rainfall": 47.6
+        },
+        {
+            "date": "2024-10-09",
+            "predicted_rainfall": 303.3
+        },
+        {
+            "date": "2024-10-10",
+            "predicted_rainfall": 295.88
+        },
+        {
+            "date": "2024-10-11",
+            "predicted_rainfall": 290.88
+        },
+        {
+            "date": "2024-10-12",
+            "predicted_rainfall": 310.5
+        },
+        {
+            "date": "2024-10-13",
+            "predicted_rainfall": 319.13
+        },
+        {
+            "date": "2024-10-14",
+            "predicted_rainfall": 338.31
+        },
+        {
+            "date": "2024-10-15",
+            "predicted_rainfall": -71.23
+        },
+        {
+            "date": "2024-10-16",
+            "predicted_rainfall": 352.4
+        },
+        {
+            "date": "2024-10-17",
+            "predicted_rainfall": 346.51
+        },
+        {
+            "date": "2024-10-18",
+            "predicted_rainfall": -40.8
+        },
+        {
+            "date": "2024-10-19",
+            "predicted_rainfall": 244.55
+        },
+        {
+            "date": "2024-10-20",
+            "predicted_rainfall": 31.6
+        },
+        {
+            "date": "2024-10-21",
+            "predicted_rainfall": 42.49
+        },
+        {
+            "date": "2024-10-22",
+            "predicted_rainfall": 292.58
+        },
+        {
+            "date": "2024-10-23",
+            "predicted_rainfall": 284.75
+        },
+        {
+            "date": "2024-10-24",
+            "predicted_rainfall": 324.62
+        },
+        {
+            "date": "2024-10-25",
+            "predicted_rainfall": 233.55
+        },
+        {
+            "date": "2024-10-26",
+            "predicted_rainfall": 346.76
+        },
+        {
+            "date": "2024-10-27",
+            "predicted_rainfall": 302.12
+        },
+        {
+            "date": "2024-10-28",
+            "predicted_rainfall": 319.35
+        },
+        {
+            "date": "2024-10-29",
+            "predicted_rainfall": 325.96
+        },
+        {
+            "date": "2024-10-30",
+            "predicted_rainfall": 123.27
+        },
+        {
+            "date": "2024-10-31",
+            "predicted_rainfall": 264.05
+        },
+        {
+            "date": "2024-11-01",
+            "predicted_rainfall": 305.31
+        },
+        {
+            "date": "2024-11-02",
+            "predicted_rainfall": 299.07
+        },
+        {
+            "date": "2024-11-03",
+            "predicted_rainfall": 101.64
+        },
+        {
+            "date": "2024-11-04",
+            "predicted_rainfall": -87.17
+        },
+        {
+            "date": "2024-11-05",
+            "predicted_rainfall": 283.99
+        },
+        {
+            "date": "2024-11-06",
+            "predicted_rainfall": 328.88
+        },
+        {
+            "date": "2024-11-07",
+            "predicted_rainfall": 296.81
+        },
+        {
+            "date": "2024-11-08",
+            "predicted_rainfall": -58.51
+        },
+        {
+            "date": "2024-11-09",
+            "predicted_rainfall": 30.54
+        },
+        {
+            "date": "2024-11-10",
+            "predicted_rainfall": 249.15
+        },
+        {
+            "date": "2024-11-11",
+            "predicted_rainfall": 294.12
+        },
+        {
+            "date": "2024-11-12",
+            "predicted_rainfall": 202.99
+        },
+        {
+            "date": "2024-11-13",
+            "predicted_rainfall": 289.91
+        },
+        {
+            "date": "2024-11-14",
+            "predicted_rainfall": 309.15
+        },
+        {
+            "date": "2024-11-15",
+            "predicted_rainfall": -26.13
+        },
+        {
+            "date": "2024-11-16",
+            "predicted_rainfall": -45.07
+        },
+        {
+            "date": "2024-11-17",
+            "predicted_rainfall": 311.68
+        },
+        {
+            "date": "2024-11-18",
+            "predicted_rainfall": 249.72
+        },
+        {
+            "date": "2024-11-19",
+            "predicted_rainfall": 321.78
+        },
+        {
+            "date": "2024-11-20",
+            "predicted_rainfall": 337.49
+        },
+        {
+            "date": "2024-11-21",
+            "predicted_rainfall": 311.46
+        },
+        {
+            "date": "2024-11-22",
+            "predicted_rainfall": 218.49
+        },
+        {
+            "date": "2024-11-23",
+            "predicted_rainfall": 217.47
+        },
+        {
+            "date": "2024-11-24",
+            "predicted_rainfall": 312.91
+        },
+        {
+            "date": "2024-11-25",
+            "predicted_rainfall": 311.24
+        },
+        {
+            "date": "2024-11-26",
+            "predicted_rainfall": -72.83
+        },
+        {
+            "date": "2024-11-27",
+            "predicted_rainfall": 326.84
+        },
+        {
+            "date": "2024-11-28",
+            "predicted_rainfall": 205.82
+        },
+        {
+            "date": "2024-11-29",
+            "predicted_rainfall": 310.13
+        },
+        {
+            "date": "2024-11-30",
+            "predicted_rainfall": 199.98
+        },
+        {
+            "date": "2024-12-01",
+            "predicted_rainfall": 212.19
+        },
+        {
+            "date": "2024-12-02",
+            "predicted_rainfall": 33.96
+        },
+        {
+            "date": "2024-12-03",
+            "predicted_rainfall": 111.81
+        },
+        {
+            "date": "2024-12-04",
+            "predicted_rainfall": 98.5
+        },
+        {
+            "date": "2024-12-05",
+            "predicted_rainfall": 8.14
+        },
+        {
+            "date": "2024-12-06",
+            "predicted_rainfall": 341.43
+        },
+        {
+            "date": "2024-12-07",
+            "predicted_rainfall": -32.9
+        },
+        {
+            "date": "2024-12-08",
+            "predicted_rainfall": 273.69
+        },
+        {
+            "date": "2024-12-09",
+            "predicted_rainfall": 327.57
+        },
+        {
+            "date": "2024-12-10",
+            "predicted_rainfall": 311.47
+        },
+        {
+            "date": "2024-12-11",
+            "predicted_rainfall": 278.6
+        },
+        {
+            "date": "2024-12-12",
+            "predicted_rainfall": 161.14
+        },
+        {
+            "date": "2024-12-13",
+            "predicted_rainfall": 284.33
+        },
+        {
+            "date": "2024-12-14",
+            "predicted_rainfall": 306.48
+        },
+        {
+            "date": "2024-12-15",
+            "predicted_rainfall": 290.08
+        },
+        {
+            "date": "2024-12-16",
+            "predicted_rainfall": 284.52
+        },
+        {
+            "date": "2024-12-17",
+            "predicted_rainfall": 293.29
+        },
+        {
+            "date": "2024-12-18",
+            "predicted_rainfall": 317.18
+        },
+        {
+            "date": "2024-12-19",
+            "predicted_rainfall": 305.49
+        },
+        {
+            "date": "2024-12-20",
+            "predicted_rainfall": -85.57
+        },
+        {
+            "date": "2024-12-21",
+            "predicted_rainfall": -11.72
+        },
+        {
+            "date": "2024-12-22",
+            "predicted_rainfall": 311.99
+        },
+        {
+            "date": "2024-12-23",
+            "predicted_rainfall": 311.97
+        },
+        {
+            "date": "2024-12-24",
+            "predicted_rainfall": 348.59
+        },
+        {
+            "date": "2024-12-25",
+            "predicted_rainfall": 164.33
+        },
+        {
+            "date": "2024-12-26",
+            "predicted_rainfall": 324.87
+        },
+        {
+            "date": "2024-12-27",
+            "predicted_rainfall": 345.63
+        },
+        {
+            "date": "2024-12-28",
+            "predicted_rainfall": 291.54
+        },
+        {
+            "date": "2024-12-29",
+            "predicted_rainfall": -27.84
+        },
+        {
+            "date": "2024-12-30",
+            "predicted_rainfall": 206.22
+        },
+        {
+            "date": "2024-12-31",
+            "predicted_rainfall": 263.5
+        },
+        {
+            "date": "2025-01-01",
+            "predicted_rainfall": 256.45
+        },
+        {
+            "date": "2025-01-02",
+            "predicted_rainfall": 101.99
+        },
+        {
+            "date": "2025-01-03",
+            "predicted_rainfall": 2.23
+        },
+        {
+            "date": "2025-01-04",
+            "predicted_rainfall": 299.29
+        },
+        {
+            "date": "2025-01-05",
+            "predicted_rainfall": 315.81
+        },
+        {
+            "date": "2025-01-06",
+            "predicted_rainfall": -38.97
+        },
+        {
+            "date": "2025-01-07",
+            "predicted_rainfall": 250.29
+        },
+        {
+            "date": "2025-01-08",
+            "predicted_rainfall": -32.98
+        },
+        {
+            "date": "2025-01-09",
+            "predicted_rainfall": 316.06
+        },
+        {
+            "date": "2025-01-10",
+            "predicted_rainfall": -0.0
+        },
+        {
+            "date": "2025-01-11",
+            "predicted_rainfall": 314.12
+        },
+        {
+            "date": "2025-01-12",
+            "predicted_rainfall": 314.45
+        },
+        {
+            "date": "2025-01-13",
+            "predicted_rainfall": 233.53
+        },
+        {
+            "date": "2025-01-14",
+            "predicted_rainfall": 208.94
+        },
+        {
+            "date": "2025-01-15",
+            "predicted_rainfall": 42.16
+        },
+        {
+            "date": "2025-01-16",
+            "predicted_rainfall": -67.97
+        },
+        {
+            "date": "2025-01-17",
+            "predicted_rainfall": 0.32
+        },
+        {
+            "date": "2025-01-18",
+            "predicted_rainfall": 282.51
+        },
+        {
+            "date": "2025-01-19",
+            "predicted_rainfall": 92.72
+        },
+        {
+            "date": "2025-01-20",
+            "predicted_rainfall": 246.27
+        },
+        {
+            "date": "2025-01-21",
+            "predicted_rainfall": 169.97
+        },
+        {
+            "date": "2025-01-22",
+            "predicted_rainfall": 338.68
+        },
+        {
+            "date": "2025-01-23",
+            "predicted_rainfall": 202.6
+        },
+        {
+            "date": "2025-01-24",
+            "predicted_rainfall": 151.41
+        },
+        {
+            "date": "2025-01-25",
+            "predicted_rainfall": 35.21
+        },
+        {
+            "date": "2025-01-26",
+            "predicted_rainfall": 327.55
+        },
+        {
+            "date": "2025-01-27",
+            "predicted_rainfall": 317.38
+        },
+        {
+            "date": "2025-01-28",
+            "predicted_rainfall": 152.28
+        },
+        {
+            "date": "2025-01-29",
+            "predicted_rainfall": 288.17
+        },
+        {
+            "date": "2025-01-30",
+            "predicted_rainfall": 321.98
+        },
+        {
+            "date": "2025-01-31",
+            "predicted_rainfall": 314.3
+        },
+        {
+            "date": "2025-02-01",
+            "predicted_rainfall": 340.35
+        },
+        {
+            "date": "2025-02-02",
+            "predicted_rainfall": 25.23
+        },
+        {
+            "date": "2025-02-03",
+            "predicted_rainfall": 312.72
+        },
+        {
+            "date": "2025-02-04",
+            "predicted_rainfall": 161.57
+        },
+        {
+            "date": "2025-02-05",
+            "predicted_rainfall": -40.23
+        },
+        {
+            "date": "2025-02-06",
+            "predicted_rainfall": 294.68
+        },
+        {
+            "date": "2025-02-07",
+            "predicted_rainfall": 278.34
+        },
+        {
+            "date": "2025-02-08",
+            "predicted_rainfall": 289.38
+        },
+        {
+            "date": "2025-02-09",
+            "predicted_rainfall": 313.29
+        },
+        {
+            "date": "2025-02-10",
+            "predicted_rainfall": 194.51
+        },
+        {
+            "date": "2025-02-11",
+            "predicted_rainfall": 5.81
+        },
+        {
+            "date": "2025-02-12",
+            "predicted_rainfall": 110.38
+        },
+        {
+            "date": "2025-02-13",
+            "predicted_rainfall": 327.51
+        },
+        {
+            "date": "2025-02-14",
+            "predicted_rainfall": -93.37
+        },
+        {
+            "date": "2025-02-15",
+            "predicted_rainfall": 44.18
+        },
+        {
+            "date": "2025-02-16",
+            "predicted_rainfall": 93.8
+        },
+        {
+            "date": "2025-02-17",
+            "predicted_rainfall": 332.48
+        },
+        {
+            "date": "2025-02-18",
+            "predicted_rainfall": 318.83
+        },
+        {
+            "date": "2025-02-19",
+            "predicted_rainfall": -19.17
+        },
+        {
+            "date": "2025-02-20",
+            "predicted_rainfall": 50.31
+        },
+        {
+            "date": "2025-02-21",
+            "predicted_rainfall": 184.61
+        },
+        {
+            "date": "2025-02-22",
+            "predicted_rainfall": 279.32
+        },
+        {
+            "date": "2025-02-23",
+            "predicted_rainfall": -21.62
+        },
+        {
+            "date": "2025-02-24",
+            "predicted_rainfall": 32.02
+        },
+        {
+            "date": "2025-02-25",
+            "predicted_rainfall": 113.02
+        },
+        {
+            "date": "2025-02-26",
+            "predicted_rainfall": 313.33
+        },
+        {
+            "date": "2025-02-27",
+            "predicted_rainfall": 127.21
+        },
+        {
+            "date": "2025-02-28",
+            "predicted_rainfall": -56.53
+        },
+        {
+            "date": "2025-03-01",
+            "predicted_rainfall": -23.52
+        },
+        {
+            "date": "2025-03-02",
+            "predicted_rainfall": 318.86
+        },
+        {
+            "date": "2025-03-03",
+            "predicted_rainfall": 323.79
+        },
+        {
+            "date": "2025-03-04",
+            "predicted_rainfall": 83.44
+        },
+        {
+            "date": "2025-03-05",
+            "predicted_rainfall": 334.18
+        },
+        {
+            "date": "2025-03-06",
+            "predicted_rainfall": 326.12
+        },
+        {
+            "date": "2025-03-07",
+            "predicted_rainfall": 297.46
+        },
+        {
+            "date": "2025-03-08",
+            "predicted_rainfall": 275.83
+        },
+        {
+            "date": "2025-03-09",
+            "predicted_rainfall": 307.46
+        },
+        {
+            "date": "2025-03-10",
+            "predicted_rainfall": 296.56
+        },
+        {
+            "date": "2025-03-11",
+            "predicted_rainfall": -38.63
+        },
+        {
+            "date": "2025-03-12",
+            "predicted_rainfall": 114.47
+        },
+        {
+            "date": "2025-03-13",
+            "predicted_rainfall": 19.81
+        },
+        {
+            "date": "2025-03-14",
+            "predicted_rainfall": 250.06
+        },
+        {
+            "date": "2025-03-15",
+            "predicted_rainfall": -3.93
+        },
+        {
+            "date": "2025-03-16",
+            "predicted_rainfall": 168.13
+        },
+        {
+            "date": "2025-03-17",
+            "predicted_rainfall": 269.5
+        },
+        {
+            "date": "2025-03-18",
+            "predicted_rainfall": 305.11
+        },
+        {
+            "date": "2025-03-19",
+            "predicted_rainfall": -62.8
+        },
+        {
+            "date": "2025-03-20",
+            "predicted_rainfall": 214.78
+        },
+        {
+            "date": "2025-03-21",
+            "predicted_rainfall": 135.84
+        },
+        {
+            "date": "2025-03-22",
+            "predicted_rainfall": 274.56
+        },
+        {
+            "date": "2025-03-23",
+            "predicted_rainfall": 373.87
+        },
+        {
+            "date": "2025-03-24",
+            "predicted_rainfall": 241.82
+        },
+        {
+            "date": "2025-03-25",
+            "predicted_rainfall": 228.88
+        },
+        {
+            "date": "2025-03-26",
+            "predicted_rainfall": 336.51
+        },
+        {
+            "date": "2025-03-27",
+            "predicted_rainfall": 238.24
+        },
+        {
+            "date": "2025-03-28",
+            "predicted_rainfall": -72.12
+        },
+        {
+            "date": "2025-03-29",
+            "predicted_rainfall": 290.93
+        },
+        {
+            "date": "2025-03-30",
+            "predicted_rainfall": 323.16
+        },
+        {
+            "date": "2025-03-31",
+            "predicted_rainfall": 140.2
+        },
+        {
+            "date": "2025-04-01",
+            "predicted_rainfall": 320.27
+        },
+        {
+            "date": "2025-04-02",
+            "predicted_rainfall": 305.72
+        },
+        {
+            "date": "2025-04-03",
+            "predicted_rainfall": 274.47
+        },
+        {
+            "date": "2025-04-04",
+            "predicted_rainfall": 232.41
+        },
+        {
+            "date": "2025-04-05",
+            "predicted_rainfall": 275.11
+        },
+        {
+            "date": "2025-04-06",
+            "predicted_rainfall": 3.08
+        },
+        {
+            "date": "2025-04-07",
+            "predicted_rainfall": 330.8
+        },
+        {
+            "date": "2025-04-08",
+            "predicted_rainfall": 24.15
+        },
+        {
+            "date": "2025-04-09",
+            "predicted_rainfall": 310.42
+        },
+        {
+            "date": "2025-04-10",
+            "predicted_rainfall": 282.55
+        },
+        {
+            "date": "2025-04-11",
+            "predicted_rainfall": 318.05
+        },
+        {
+            "date": "2025-04-12",
+            "predicted_rainfall": 311.72
+        },
+        {
+            "date": "2025-04-13",
+            "predicted_rainfall": 266.15
+        },
+        {
+            "date": "2025-04-14",
+            "predicted_rainfall": 108.89
+        },
+        {
+            "date": "2025-04-15",
+            "predicted_rainfall": 311.49
+        },
+        {
+            "date": "2025-04-16",
+            "predicted_rainfall": 307.64
+        },
+        {
+            "date": "2025-04-17",
+            "predicted_rainfall": 319.56
+        },
+        {
+            "date": "2025-04-18",
+            "predicted_rainfall": 59.42
+        },
+        {
+            "date": "2025-04-19",
+            "predicted_rainfall": 287.24
+        },
+        {
+            "date": "2025-04-20",
+            "predicted_rainfall": 14.59
+        },
+        {
+            "date": "2025-04-21",
+            "predicted_rainfall": 309.15
+        },
+        {
+            "date": "2025-04-22",
+            "predicted_rainfall": 314.17
+        },
+        {
+            "date": "2025-04-23",
+            "predicted_rainfall": 358.48
+        },
+        {
+            "date": "2025-04-24",
+            "predicted_rainfall": -20.6
+        },
+        {
+            "date": "2025-04-25",
+            "predicted_rainfall": -24.42
+        },
+        {
+            "date": "2025-04-26",
+            "predicted_rainfall": 318.66
+        },
+        {
+            "date": "2025-04-27",
+            "predicted_rainfall": -4.94
+        },
+        {
+            "date": "2025-04-28",
+            "predicted_rainfall": 226.99
+        },
+        {
+            "date": "2025-04-29",
+            "predicted_rainfall": 203.9
+        },
+        {
+            "date": "2025-04-30",
+            "predicted_rainfall": 277.71
+        },
+        {
+            "date": "2025-05-01",
+            "predicted_rainfall": 278.93
+        },
+        {
+            "date": "2025-05-02",
+            "predicted_rainfall": 253.88
+        },
+        {
+            "date": "2025-05-03",
+            "predicted_rainfall": 213.6
+        },
+        {
+            "date": "2025-05-04",
+            "predicted_rainfall": 318.74
+        },
+        {
+            "date": "2025-05-05",
+            "predicted_rainfall": 124.39
+        },
+        {
+            "date": "2025-05-06",
+            "predicted_rainfall": 347.2
+        },
+        {
+            "date": "2025-05-07",
+            "predicted_rainfall": 113.25
+        },
+        {
+            "date": "2025-05-08",
+            "predicted_rainfall": 295.37
+        },
+        {
+            "date": "2025-05-09",
+            "predicted_rainfall": 321.59
+        },
+        {
+            "date": "2025-05-10",
+            "predicted_rainfall": 152.34
+        },
+        {
+            "date": "2025-05-11",
+            "predicted_rainfall": 303.25
+        },
+        {
+            "date": "2025-05-12",
+            "predicted_rainfall": 305.14
+        },
+        {
+            "date": "2025-05-13",
+            "predicted_rainfall": 108.85
+        },
+        {
+            "date": "2025-05-14",
+            "predicted_rainfall": 286.02
+        },
+        {
+            "date": "2025-05-15",
+            "predicted_rainfall": 210.33
+        },
+        {
+            "date": "2025-05-16",
+            "predicted_rainfall": 318.18
+        },
+        {
+            "date": "2025-05-17",
+            "predicted_rainfall": 324.26
+        },
+        {
+            "date": "2025-05-18",
+            "predicted_rainfall": 292.81
+        },
+        {
+            "date": "2025-05-19",
+            "predicted_rainfall": 329.94
+        },
+        {
+            "date": "2025-05-20",
+            "predicted_rainfall": -64.48
+        },
+        {
+            "date": "2025-05-21",
+            "predicted_rainfall": 119.3
+        },
+        {
+            "date": "2025-05-22",
+            "predicted_rainfall": 322.9
+        },
+        {
+            "date": "2025-05-23",
+            "predicted_rainfall": 188.38
+        },
+        {
+            "date": "2025-05-24",
+            "predicted_rainfall": 130.83
+        },
+        {
+            "date": "2025-05-25",
+            "predicted_rainfall": 230.02
+        },
+        {
+            "date": "2025-05-26",
+            "predicted_rainfall": 319.1
+        },
+        {
+            "date": "2025-05-27",
+            "predicted_rainfall": 8.25
+        },
+        {
+            "date": "2025-05-28",
+            "predicted_rainfall": 337.24
+        },
+        {
+            "date": "2025-05-29",
+            "predicted_rainfall": -12.6
+        },
+        {
+            "date": "2025-05-30",
+            "predicted_rainfall": 312.57
+        },
+        {
+            "date": "2025-05-31",
+            "predicted_rainfall": 322.48
+        },
+        {
+            "date": "2025-06-01",
+            "predicted_rainfall": 321.22
+        },
+        {
+            "date": "2025-06-02",
+            "predicted_rainfall": 11.04
+        },
+        {
+            "date": "2025-06-03",
+            "predicted_rainfall": 314.08
+        },
+        {
+            "date": "2025-06-04",
+            "predicted_rainfall": 51.4
+        },
+        {
+            "date": "2025-06-05",
+            "predicted_rainfall": 300.45
+        },
+        {
+            "date": "2025-06-06",
+            "predicted_rainfall": 18.07
+        },
+        {
+            "date": "2025-06-07",
+            "predicted_rainfall": 326.3
+        },
+        {
+            "date": "2025-06-08",
+            "predicted_rainfall": 313.15
+        },
+        {
+            "date": "2025-06-09",
+            "predicted_rainfall": 195.18
+        },
+        {
+            "date": "2025-06-10",
+            "predicted_rainfall": -11.3
+        },
+        {
+            "date": "2025-06-11",
+            "predicted_rainfall": 289.83
+        },
+        {
+            "date": "2025-06-12",
+            "predicted_rainfall": 316.18
+        },
+        {
+            "date": "2025-06-13",
+            "predicted_rainfall": 295.21
+        },
+        {
+            "date": "2025-06-14",
+            "predicted_rainfall": 198.57
+        },
+        {
+            "date": "2025-06-15",
+            "predicted_rainfall": 362.76
+        },
+        {
+            "date": "2025-06-16",
+            "predicted_rainfall": 117.32
+        },
+        {
+            "date": "2025-06-17",
+            "predicted_rainfall": 310.65
+        },
+        {
+            "date": "2025-06-18",
+            "predicted_rainfall": 24.03
+        },
+        {
+            "date": "2025-06-19",
+            "predicted_rainfall": 18.84
+        },
+        {
+            "date": "2025-06-20",
+            "predicted_rainfall": 215.97
+        },
+        {
+            "date": "2025-06-21",
+            "predicted_rainfall": -55.74
+        },
+        {
+            "date": "2025-06-22",
+            "predicted_rainfall": -31.68
+        },
+        {
+            "date": "2025-06-23",
+            "predicted_rainfall": 244.4
+        },
+        {
+            "date": "2025-06-24",
+            "predicted_rainfall": -104.45
+        },
+        {
+            "date": "2025-06-25",
+            "predicted_rainfall": -60.44
+        },
+        {
+            "date": "2025-06-26",
+            "predicted_rainfall": 1.97
+        },
+        {
+            "date": "2025-06-27",
+            "predicted_rainfall": 173.56
+        },
+        {
+            "date": "2025-06-28",
+            "predicted_rainfall": 152.39
+        },
+        {
+            "date": "2025-06-29",
+            "predicted_rainfall": -75.8
+        },
+        {
+            "date": "2025-06-30",
+            "predicted_rainfall": 108.01
+        },
+        {
+            "date": "2025-07-01",
+            "predicted_rainfall": 99.25
+        },
+        {
+            "date": "2025-07-02",
+            "predicted_rainfall": -9.16
+        },
+        {
+            "date": "2025-07-03",
+            "predicted_rainfall": 326.95
+        },
+        {
+            "date": "2025-07-04",
+            "predicted_rainfall": 335.06
+        },
+        {
+            "date": "2025-07-05",
+            "predicted_rainfall": 310.72
+        },
+        {
+            "date": "2025-07-06",
+            "predicted_rainfall": 339.39
+        }
+    ]
+}
