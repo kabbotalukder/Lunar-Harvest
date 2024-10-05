@@ -3,7 +3,7 @@
 ## About the App
 Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast repository of Earth observation data, our app leverages advanced machine-learning algorithms to analyze historical rainfall patterns, weather trends, and regional characteristics. With our app, we help farmers predict upcoming floods, and droughts, monitor soil moisture, track pre-harvest and active farming phases, and notify farmers about water usage.
 
-> This app was developed using React Native and Expo.
+> This app was developed using React Native and Expo
 
 > Figma: https://www.figma.com/design/MNHko1t97eiB2cF928fcFi/Lunar-Harvest---NASA-SPACE-APP-CHALLENGES?node-id=518-14&t=o3OpSXjgTW9cGKgT-1
 
