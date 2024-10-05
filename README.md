@@ -1,5 +1,4 @@
 <p align = "center"><img width="50%" src="https://nsac.basis.org.bd/uploads/images/logo.png"></p>
-<h1 align = "center">🥉 2nd Runner-Up in Mymensingh Division</h1>
 
 ## About the App
 Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast repository of Earth observation data, our app leverages advanced machine-learning algorithms to analyze historical rainfall patterns, weather trends, and regional characteristics. With our app, we help farmers predict upcoming floods, and droughts, monitor soil moisture, track pre-harvest and active farming phases, and notify farmers about water usage.
@@ -12,5 +11,5 @@ Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast reposi
 Farmers face a deluge of water-related challenges due to unpredictable weather, pests, and diseases. These factors can significantly impact crop health, farmers’ profits, and food security. Depending upon the geography, many farmers may face droughts or floods—sometimes both of these extreme events occur within the same season! Your challenge is to design a tool that empowers farmers to easily explore, analyze, and utilize NASA datasets to address these water-related concerns and improve their farming practices.
 
 ## About the Team
-We are a passionate group of five innovators. With a shared enthusiasm for leveraging technology and data science, our team is committed to creating impactful solutions that address real-world challenges faced by farmers worldwide. Our shared enthusiasm for sustainable agriculture, technological know-how, and innovation have brought us together to create a platform that will revolutionize the way farmers work with climate data. We are eager to tackle this task together and use our abilities and imagination to significantly advance the field of agricultural technology.
+Team Lunar Harvesters is a passionate group of five innovators. With a shared enthusiasm for leveraging technology and data science, our team is committed to creating impactful solutions that address real-world challenges faced by farmers worldwide. Our shared enthusiasm for sustainable agriculture, technological know-how, and innovation have brought us together to create a platform that will revolutionize the way farmers work with climate data. We are eager to tackle this task together and use our abilities and imagination to significantly advance the field of agricultural technology.
 
