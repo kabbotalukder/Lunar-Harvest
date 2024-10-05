@@ -8,6 +8,8 @@ Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast reposi
 > Figma: https://www.figma.com/design/MNHko1t97eiB2cF928fcFi/Lunar-Harvest---NASA-SPACE-APP-CHALLENGES?node-id=518-14&t=o3OpSXjgTW9cGKgT-1
 
 ## About the Challenge
+> Challenge: https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/leveraging-earth-observation-data-for-informed-agricultural-decision-making/
+
 Farmers face a deluge of water-related challenges due to unpredictable weather, pests, and diseases. These factors can significantly impact crop health, farmers’ profits, and food security. Depending upon the geography, many farmers may face droughts or floods—sometimes both of these extreme events occur within the same season! Your challenge is to design a tool that empowers farmers to easily explore, analyze, and utilize NASA datasets to address these water-related concerns and improve their farming practices.
 
 ## About the Team
