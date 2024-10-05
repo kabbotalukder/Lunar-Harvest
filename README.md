@@ -5,7 +5,7 @@ Lunar Harvest, is an AI-powered farming companion. Powered by NASA's vast reposi
 
 > This app was developed using React Native and Expo: https://snack.expo.dev/@kabbotalukder5/lunar-harvest
 
-> Figma: https://www.figma.com/design/MNHko1t97eiB2cF928fcFi/Lunar-Harvest---NASA-SPACE-APP-CHALLENGES?node-id=518-14&t=o3OpSXjgTW9cGKgT-1
+> Figma: https://www.figma.com/design/MNHko1t97eiB2cF928fcFi/Lunar-Harvest---NASA-SPACE-APP-CHALLENGES
 
 > 30 Second Video: https://youtu.be/ME21UOTVfFQ
 
@@ -19,3 +19,4 @@ Farmers face a deluge of water-related challenges due to unpredictable weather, 
 ## About the Team
 Team Lunar Harvesters is a passionate group of five innovators. With a shared enthusiasm for leveraging technology and data science, our team is committed to creating impactful solutions that address real-world challenges faced by farmers worldwide. Our shared enthusiasm for sustainable agriculture, technological know-how, and innovation have brought us together to create a platform that will revolutionize the way farmers work with climate data. We are eager to tackle this task together and use our abilities and imagination to significantly advance the field of agricultural technology.
 
+<p align = "center"><img width="100%" src="https://i.ibb.co.com/6g6MkpH/photo-2024-10-05-23-24-01.jpg"></p>
