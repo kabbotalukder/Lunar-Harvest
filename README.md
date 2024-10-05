@@ -19,4 +19,4 @@ Farmers face a deluge of water-related challenges due to unpredictable weather, 
 ## About the Team
 Team Lunar Harvesters is a passionate group of five innovators. With a shared enthusiasm for leveraging technology and data science, our team is committed to creating impactful solutions that address real-world challenges faced by farmers worldwide. Our shared enthusiasm for sustainable agriculture, technological know-how, and innovation have brought us together to create a platform that will revolutionize the way farmers work with climate data. We are eager to tackle this task together and use our abilities and imagination to significantly advance the field of agricultural technology.
 
-<p align = "center"><img width="100%" src="https://i.ibb.co.com/6g6MkpH/photo-2024-10-05-23-24-01.jpg"></p>
+<p align = "center"><img width="100%" src="https://ibb.co.com/RzLFqM3"></p>
